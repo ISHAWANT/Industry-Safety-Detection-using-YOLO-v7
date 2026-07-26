@@ -1,0 +1,5 @@
+train: D:\\Bappy\\Office\\Recordings\\code\\ISD\\train.txt
+val: D:\\Bappy\\Office\\Recordings\\code\\ISD\\val.txt
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
